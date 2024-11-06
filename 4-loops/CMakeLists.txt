@@ -1,0 +1,12 @@
+cmake_minimum_required(VERSION 3.29)
+project(untitled C)
+
+set(CMAKE_C_STANDARD 17)
+add_executable(game-of-life game-of-life.c)
+add_executable(merge merge.c)
+add_executable(Insertion-Sort Insertion-Sort.c)
+add_executable(get-f get-f.c)
+add_executable(bit bit.c)
+add_executable(bitt bitt.c)
+add_executable(mine mine.c)
+add_executable(llk llk.c)
